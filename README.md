@@ -93,7 +93,7 @@
     - [Websites](#websites)
     - [Weekly](#weekly)
 - [Java](#java)
-    - [Hign Performance](#hign-performance)
+    - [Hign Performance](#hign-performance)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
