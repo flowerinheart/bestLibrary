@@ -945,3 +945,7 @@ Online tools and APIs to simplify development.
 # Java
 ## High Performance
 * [reflectacm](https://github.com/EsotericSoftware/reflectasm)  - High Peformance reflection
+* [reflections](https://github.com/ronmamo/reflections)         - High Peformance reflection
+## jvm
+* [metrics](https://github.com/dropwizard/metrics)              - app metrics in details
+* [reactive jvm](https://github.com/ReactiveX/RxJava)           - reactive jvm
