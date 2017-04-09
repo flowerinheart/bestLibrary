@@ -94,6 +94,8 @@
     - [Weekly](#weekly)
 - [Java](#java)
     - [Hign Performance](#hign-performance)
+    - [Jvm](#jvm)
+    - [Native](#native)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -946,6 +948,11 @@ Online tools and APIs to simplify development.
 ## High Performance
 * [reflectacm](https://github.com/EsotericSoftware/reflectasm)  - High Peformance reflection
 * [reflections](https://github.com/ronmamo/reflections)         - High Peformance reflection
-## jvm
+## Jvm
 * [metrics](https://github.com/dropwizard/metrics)              - app metrics in details
 * [reactive jvm](https://github.com/ReactiveX/RxJava)           - reactive jvm
+## Native
+* [JNR](https://github.com/jnr/jnr-ffi)                         - Work with native libraries without writing JNI. Also provides interfaces to common system libraries.
+* [JNA](https://github.com/java-native-access/jna)              - Work with native libraries without writing JNI. Also provides interfaces to common system libraries.
+* [JNC](https://github.com/bytedeco/javacpp)                    - Provides efficient and easy access to native C++.
+
