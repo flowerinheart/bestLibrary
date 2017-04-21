@@ -459,12 +459,7 @@
 ## HTTP
 
 *Libraries for working with HTTP.*
-
-* [grequests](https://github.com/kennethreitz/grequests) - requests + gevent for asynchronous HTTP requests.
-* [httplib2](https://github.com/jcgregorio/httplib2) - Comprehensive HTTP client library.
 * [requests](http://docs.python-requests.org/en/latest/) - HTTP Requests for Humans™.
-* [treq](https://github.com/twisted/treq) - Python requests like API built on top of Twisted's HTTP client.
-* [urllib3](https://github.com/shazow/urllib3) - A HTTP library with thread-safe connection pooling, file post support, sanity friendly.
 
 ## Hardware
 
