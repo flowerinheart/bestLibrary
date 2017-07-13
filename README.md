@@ -202,6 +202,10 @@
 
 * [eventlet](http://eventlet.net/) - Asynchronous framework with WSGI support.
 
+* [uvloop](https://github.com/MagicStack/uvloop)  - Ultra fast implementation of asyncio event loop on top of libuv.
+
+* [tomorrow](https://github.com/madisonmay/Tomorrow) - Magic decorator syntax for asynchronous code.
+
 
 ## Configuration
 
